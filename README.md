@@ -1,4 +1,7 @@
-# KPMG_DataAnalytics_Virtual_Program
+# KPMG Australia Data Analytics Consulting Virtual Program
+
+The whole program was provided by **KPMG Australia**, ***Forage***
+
 This Repo is used to store programs and files generated during the completion of KPMG virtual project training
 
 The whole program contains 3 stages which are *Data Quality Assessment*, *Data Insights* and *Data Visualization & Presentation*.
