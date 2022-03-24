@@ -1,6 +1,6 @@
 # KPMG Australia Data Analytics Consulting Virtual Program
 
-The whole program was provided by **KPMG Australia**, ***Forage***
+The whole program was provided by ***Forage*** and endorsed by ***KPMG Australia***
 
 This Repo is used to store programs and files generated during the completion of KPMG virtual project training
 
